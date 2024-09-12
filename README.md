@@ -25,6 +25,10 @@ Para usar este projeto, siga os seguintes passos:
     docker compose up -d
     ```
 
+4. Baixa o zip https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2022/Brasil/BR/BR_Municipios_2022.zip
+
+5. Crie a pasta assets/shp e insira o zip dentro dela 
+
 ## Observação
 O Script está buscando todos os dados a partir da data 2024-09-01, porém a nova versão será lançada para buscar dados do dia.
 
